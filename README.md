@@ -9,6 +9,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aryanpratik11&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/aryanpratik11/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/aryanpratik11/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/>
+  </a>
   <a href="mailto:aryanpratik11@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
