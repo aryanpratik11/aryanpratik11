@@ -18,6 +18,11 @@
   <img src="https://skillicons.dev/icons?i=python,react,nodejs,express,flask,mongodb,mysql,html,css,js,git,github" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=react-dark&hide_border=true" />
+</p>
+
+
 ---
 
 ### 📈 GitHub Stats
