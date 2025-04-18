@@ -37,12 +37,6 @@
 
 ---
 
-### ✍️ Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
 
 ### 🔗 Latest Projects
 <table> <tr> <td width="50%"> <h4>💸 University Finance Management System</h4> <p> A full-stack web platform to manage and track financial operations of a university. Includes secure login, budget allocation, and report generation modules. </p> <p> <a href="https://github.com/aryanpratik11/university-finance-management-system.git"> <img src="https://img.shields.io/badge/Repository-View-blue?style=flat-square&logo=github" /> </a> </p> </td> <td width="50%"> <h4>🧑‍💼 IIIT Raichur TNP Cell Website</h4> <p> Official Training & Placement website for IIIT Raichur. I contributed as a <strong>Next.js</strong> developer to implement responsive and modern UI components. </p> <p> <a href="https://github.com/mrGupta04/IIITR-placement-website.git"> <img src="https://img.shields.io/badge/Repository-View-blue?style=flat-square&logo=github" /> </a> </p> </td> </tr> <tr> <td colspan="2"> <h4>🌊 ML-Flood-Prediction</h4> <p> A machine learning-powered flood prediction and impact analysis system. Integrates multiple factors like rainfall, river level, and environmental data to predict risk zones and damages. </p> <p> <a href="https://github.com/aryanpratik11/ML-Flood-Prediction.git"> <img src="https://img.shields.io/badge/Repository-View-blue?style=flat-square&logo=github" /> </a> </p> </td> </tr> </table>
