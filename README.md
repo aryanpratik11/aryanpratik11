@@ -53,6 +53,11 @@
 
 ### 🔗 Latest Projects
 ```markdown
-- 🎯 [Project Name](https://github.com/aryanpratik11/project-name) — A brief one-liner.
-- 🌊 [Flood Prediction Platform](https://github.com/aryanpratik11/flood-predict) — Real-time ML-powered system.
-- 🛍️ [GreenCart](https://github.com/aryanpratik11/greencart) — E-commerce with real-world impact.
+- 💸 [University Finance Management System](https://github.com/aryanpratik11/university-finance-management-system.git)  
+  *Web-based platform for managing university financial data.*
+
+- 🧑‍💼 [IIIT Raichur TNP Cell Website](https://github.com/mrGupta04/IIITR-placement-website.git)  
+  *Contributed as a Next.js developer for the official Training & Placement website.*
+
+- 🌊 [ML-Flood-Prediction](https://github.com/aryanpratik11/ML-Flood-Prediction.git)  
+  *Flood prediction system using multi-factor machine learning models.*
