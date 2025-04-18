@@ -5,10 +5,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Code.%20Create.%20Collaborate.;Crafting%20cool%20projects%20every%20day!&center=true&width=500&height=50">
 </p>
 
+
 <p align="center">
-  <a href="https://github.com/aryanpratik11"><img src="https://img.shields.io/github/followers/aryanpratik11?label=Followers&style=social" alt="GitHub"></a>
+  <img src="https://komarev.com/ghpvc/?username=aryanpratik11&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/aryanpratik11/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:aryanpratik11@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ---
