@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Developer | 🌱 Learner | ⚡ Innovator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code.%20Create.%20Collaborate.;Building%20cool%20things%20since%20[Year]!&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code.%20Create.%20Collaborate.;Building%20cool%20things%20since%2022!&center=true&width=500&height=50">
 </p>
 
 <p align="center">
