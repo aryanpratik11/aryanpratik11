@@ -24,15 +24,15 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanpratik11&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aryanpratik11&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanpratik11&show_icons=true&theme=merko" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aryanpratik11&theme=merko" height="160"/>
 </p>
 
 ---
 
 ### 🏆 Trophies & Contributions
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryanpratik11&theme=algolia&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aryanpratik11&theme=merko&margin-w=15" />
 </p>
 
 ---
