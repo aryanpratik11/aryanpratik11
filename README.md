@@ -9,6 +9,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aryanpratik11&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/aryanpratik11/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://linktr.ee/aryanpratik11" target="_blank">
+    <img src="https://img.shields.io/badge/-Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white" alt="Linktree Badge"/>
+  </a>
   <a href="https://leetcode.com/aryanpratik11/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/>
   </a>
