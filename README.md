@@ -103,90 +103,50 @@
 ---
 
 
-### 🔗 Latest Projects
+### 🚀 Latest Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>💸 University Finance Management System</h4>
-      <p>
-        A full-stack web platform to manage and track university financial operations.
-        Built with <strong>React</strong>, <strong>Node.js</strong>, and <strong>PostgreSQL</strong>. 
-        Includes modules for budgeting, payroll, and online fee payments via Razorpay.
-      </p>
-      <p>
-        <a href="https://github.com/aryanpratik11/university-finance-management-system.git">
-          <img src="https://img.shields.io/badge/Repository-View-blue?style=flat-square&logo=github" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h4>🧑‍💼 IIIT Raichur TNP Cell Website</h4>
-      <p>
-        Official Training & Placement website for IIIT Raichur. 
-        Contributed as a <strong>Next.js</strong> developer to build responsive and modern UI components.
-      </p>
-      <p>
-        <a href="https://github.com/mrGupta04/IIITR-placement-website.git">
-          <img src="https://img.shields.io/badge/Repository-View-blue?style=flat-square&logo=github" />
-        </a>
-      </p>
-    </td>
-  </tr>
+#### 💸 University Finance Management System
+> A full-stack web platform for managing university finances — including budgets, payrolls, and student fee payments.  
+> **Stack:** React · Node.js · PostgreSQL · Razorpay API  
+> 🔗 [Repository](https://github.com/aryanpratik11/university-finance-management-system.git)
 
-  <tr>
-    <td width="50%">
-      <h4>🤖 FinSage.AI</h4>
-      <p>
-        An agentic financial assistant built with <strong>FastAPI</strong>, <strong>LLM integration</strong>, and <strong>multi-agent orchestration</strong>. 
-        Provides insights on mutual funds, stocks, and personal finance using live data aggregation and reasoning agents.
-      </p>
-      <p>
-        <a href="https://github.com/aryanpratik11/FinSage.ai.git">
-          <img src="https://img.shields.io/badge/Repository-View-blue?style=flat-square&logo=github" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h4>📰 CivicBriefs.AI</h4>
-      <p>
-        AI-powered civic news summarizer using <strong>FastAPI</strong> and <strong>SQLModel</strong>. 
-        Automates policy updates, news clustering, and smart scheduling with backend modularity.
-      </p>
-      <p>
-        <a href="https://github.com/aman18Chaurasia/CivicBriefs-AI.git">
-          <img src="https://img.shields.io/badge/Repository-View-blue?style=flat-square&logo=github" />
-        </a>
-      </p>
-    </td>
-  </tr>
+---
 
-  <tr>
-    <td width="50%">
-      <h4>🧠 GitHub Test Case Generator</h4>
-      <p>
-        A <strong>React + Node.js</strong> app that auto-generates test cases for uploaded code 
-        with <strong>GitHub integration</strong> and AI-assisted case coverage generation.
-      </p>
-      <p>
-        <a href="https://github.com/aryanpratik11/Test-Case-Generator.git">
-          <img src="https://img.shields.io/badge/Repository-View-blue?style=flat-square&logo=github" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h4>🌊 ML-Flood-Prediction</h4>
-      <p>
-        Machine learning-powered flood prediction and impact analysis system. 
-        Uses <strong>XGBoost</strong>, <strong>real-time APIs</strong>, and <strong>Flask</strong> integration 
-        for dual input modes — manual and automated environmental data.
-      </p>
-      <p>
-        <a href="https://github.com/aryanpratik11/ML-Flood-Prediction.git">
-          <img src="https://img.shields.io/badge/Repository-View-blue?style=flat-square&logo=github" />
-        </a>
-      </p>
-    </td>
-  </tr>
+#### 🤖 FinSage.AI
+> An agentic financial assistant built with multi-agent orchestration and LLM integration.  
+> Provides insights on mutual funds, stocks, and personal finance using FastAPI-based modular services.  
+> **Stack:** FastAPI · Python · LLMs · Async Agents  
+> 🔗 [Repository](https://github.com/aryanpratik11/FinSage.ai.git)
+
+---
+
+#### 📰 CivicBriefs.AI
+> AI-powered civic news and policy summarizer that automates content retrieval, summarization, and scheduling.  
+> **Stack:** FastAPI · SQLModel · LLM Summarization · Modular Architecture  
+> 🔗 [Repository](https://github.com/aman18Chaurasia/CivicBriefs-AI.git)
+
+---
+
+#### 🧠 GitHub Test Case Generator
+> An intelligent test case generator that integrates directly with GitHub repositories.  
+> Uses AI to generate meaningful edge cases and validate function coverage.  
+> **Stack:** React · Node.js · Express · GitHub API  
+> 🔗 [Repository](https://github.com/aryanpratik11/Test-Case-Generator.git)
+
+---
+
+#### 🌊 ML-Flood-Prediction
+> Machine learning-powered flood prediction system with multi-input modes (manual & API-driven).  
+> Predicts flood risk zones and damages using XGBoost and real-time data integration.  
+> **Stack:** Python · Flask · XGBoost · GridSearchCV  
+> 🔗 [Repository](https://github.com/aryanpratik11/ML-Flood-Prediction.git)
+
+---
+
+#### 🧑‍💼 IIIT Raichur TNP Cell Website
+> Official Training & Placement portal for IIIT Raichur.  
+> Contributed as a **Next.js** developer to implement responsive UI components.  
+> **Stack:** Next.js · TailwindCSS · Vercel  
+> 🔗 [Repository](https://github.com/mrGupta04/IIITR-placement-website.git)
 </table>
 
