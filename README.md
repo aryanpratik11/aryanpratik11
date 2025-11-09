@@ -104,4 +104,89 @@
 
 
 ### 🔗 Latest Projects
-<table> <tr> <td width="50%"> <h4>💸 University Finance Management System</h4> <p> A full-stack web platform to manage and track financial operations of a university. Includes secure login, budget allocation, and report generation modules. </p> <p> <a href="https://github.com/aryanpratik11/university-finance-management-system.git"> <img src="https://img.shields.io/badge/Repository-View-blue?style=flat-square&logo=github" /> </a> </p> </td> <td width="50%"> <h4>🧑‍💼 IIIT Raichur TNP Cell Website</h4> <p> Official Training & Placement website for IIIT Raichur. I contributed as a <strong>Next.js</strong> developer to implement responsive and modern UI components. </p> <p> <a href="https://github.com/mrGupta04/IIITR-placement-website.git"> <img src="https://img.shields.io/badge/Repository-View-blue?style=flat-square&logo=github" /> </a> </p> </td> </tr> <tr> <td colspan="2"> <h4>🌊 ML-Flood-Prediction</h4> <p> A machine learning-powered flood prediction and impact analysis system. Integrates multiple factors like rainfall, river level, and environmental data to predict risk zones and damages. </p> <p> <a href="https://github.com/aryanpratik11/ML-Flood-Prediction.git"> <img src="https://img.shields.io/badge/Repository-View-blue?style=flat-square&logo=github" /> </a> </p> </td> </tr> </table>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>💸 University Finance Management System</h4>
+      <p>
+        A full-stack web platform to manage and track university financial operations.
+        Built with <strong>React</strong>, <strong>Node.js</strong>, and <strong>PostgreSQL</strong>. 
+        Includes modules for budgeting, payroll, and online fee payments via Razorpay.
+      </p>
+      <p>
+        <a href="https://github.com/aryanpratik11/university-finance-management-system.git">
+          <img src="https://img.shields.io/badge/Repository-View-blue?style=flat-square&logo=github" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h4>🧑‍💼 IIIT Raichur TNP Cell Website</h4>
+      <p>
+        Official Training & Placement website for IIIT Raichur. 
+        Contributed as a <strong>Next.js</strong> developer to build responsive and modern UI components.
+      </p>
+      <p>
+        <a href="https://github.com/mrGupta04/IIITR-placement-website.git">
+          <img src="https://img.shields.io/badge/Repository-View-blue?style=flat-square&logo=github" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h4>🤖 FinSage.AI</h4>
+      <p>
+        An agentic financial assistant built with <strong>FastAPI</strong>, <strong>LLM integration</strong>, and <strong>multi-agent orchestration</strong>. 
+        Provides insights on mutual funds, stocks, and personal finance using live data aggregation and reasoning agents.
+      </p>
+      <p>
+        <a href="https://github.com/aryanpratik11/FinSage.ai.git">
+          <img src="https://img.shields.io/badge/Repository-View-blue?style=flat-square&logo=github" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h4>📰 CivicBriefs.AI</h4>
+      <p>
+        AI-powered civic news summarizer using <strong>FastAPI</strong> and <strong>SQLModel</strong>. 
+        Automates policy updates, news clustering, and smart scheduling with backend modularity.
+      </p>
+      <p>
+        <a href="https://github.com/aman18Chaurasia/CivicBriefs-AI.git">
+          <img src="https://img.shields.io/badge/Repository-View-blue?style=flat-square&logo=github" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h4>🧠 GitHub Test Case Generator</h4>
+      <p>
+        A <strong>React + Node.js</strong> app that auto-generates test cases for uploaded code 
+        with <strong>GitHub integration</strong> and AI-assisted case coverage generation.
+      </p>
+      <p>
+        <a href="https://github.com/aryanpratik11/Test-Case-Generator.git">
+          <img src="https://img.shields.io/badge/Repository-View-blue?style=flat-square&logo=github" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h4>🌊 ML-Flood-Prediction</h4>
+      <p>
+        Machine learning-powered flood prediction and impact analysis system. 
+        Uses <strong>XGBoost</strong>, <strong>real-time APIs</strong>, and <strong>Flask</strong> integration 
+        for dual input modes — manual and automated environmental data.
+      </p>
+      <p>
+        <a href="https://github.com/aryanpratik11/ML-Flood-Prediction.git">
+          <img src="https://img.shields.io/badge/Repository-View-blue?style=flat-square&logo=github" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
