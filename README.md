@@ -23,8 +23,8 @@
 
 💡 &nbsp; A B.Tech CSE student (2026 pass-out) from IIIT Raichur, passionate about software development, AI, and full-stack projects.\
 🌱 &nbsp; Currently working on projects involving Machine Learning, Agentic AI, and End-to-End Web Applications\
-🤝 &nbsp; Open to collaborations, internships, and research opportunities in the fields of AI, Full-Stack Development, and Intelligent Systems.\
-💬 &nbsp; Feel free to reach out for collaborations, tech discussions, or general consulting - I’d love to connect and grow together! \
+🤝 &nbsp; Open to collaborations, internships, and opportunities in the fields of AI, Full-Stack Development, and Intelligent Systems.\
+💬 &nbsp; Feel free to reach out for collaborations, tech discussions, or general consulting - I’d love to connect and grow together!
 
 ----
 
@@ -35,15 +35,16 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanpratik11&show_icons=true&theme=merko" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aryanpratik11&theme=merko" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanpratik11&show_icons=true&theme=merko" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aryanpratik11&theme=merko" height="160" />
 </p>
 
----
-
-### 🏆 Trophies & Contributions
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryanpratik11&theme=merko&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aryanpratik11&theme=merko&margin-w=15&no-frame=true&no-bg=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanpratik11&theme=react-dark&hide_border=true&area=true" alt="Aryan's Activity Graph" />
 </p>
 
 ---
