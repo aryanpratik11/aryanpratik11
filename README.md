@@ -45,14 +45,24 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <br/>
+
+  <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
   <br/>
 
   <!-- 🗄️ Databases -->
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <br/>
+
+  <!-- 🗄️ Data -->
+  <img src="https://img.shields.io/badge/RESTful%20APIs-009688?style=for-the-badge&logo=swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
   <br/>
 
   <!-- 🤖 AI / ML / Agentic Systems -->
@@ -62,45 +72,37 @@
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-2E77BB?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Agentic Systems-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Embeddings-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector%20Search-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agentic%20Systems-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChromaDB-412991?style=for-the-badge"/>
+
+
   <br/>
 
   <!-- ⚙️ Tools & Deployment -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Render-4D8FF2?style=for-the-badge&logo=render&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
   <br/>
 
   <!-- 🧩 Core Concepts -->
   <img src="https://img.shields.io/badge/Data Structures & Algorithms-323330?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OOPs-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-00599C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RESTful APIs-4CAF50?style=for-the-badge&logo=swagger&logoColor=white"/>
 </p>
 
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanpratik11&show_icons=true&theme=merko" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aryanpratik11&theme=merko" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryanpratik11&theme=merko&margin-w=15&no-frame=true&no-bg=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanpratik11&theme=merko&hide_border=true&area=true" alt="Aryan's Activity Graph" />
-</p>
-
----
 
 
 ### 🚀 Latest Projects
